@@ -1,0 +1,56 @@
+body {
+    background-color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#background {
+    width: 100%;
+    height: auto;
+}
+#footer {
+    font-variant: small-caps;
+    font-style: oblique;
+    color: gold;
+    bottom: 0;
+    left: 10;
+    position: fixed;
+}
+#heading {
+    font-style: oblique;
+    color: gold;
+}
+.btn {
+    font-size: 25px;
+    background-color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-variant: small-caps;
+    color: gold;
+    size: 50px;
+    border-width: 5px;
+    border-color: blue;
+    border-style: solid;
+    border-radius: 0%;
+}
+.btn:hover {
+    background-color: gold;
+    color: blue;
+    border-color: gold;
+    border-width: 5px;
+    border-style: solid;
+    cursor: pointer;
+    font-size: xx-large;
+    border-radius: 0%;
+}
+#btnDiv {
+    bottom: 270;
+    left: 180px;
+    position: fixed;
+    border-width: 5px;
+    border-color: blue;
+    border-style: groove;
+}
+#headingdiv {
+    top: 0;
+    position: fixed;
+    width: 100%;
+    background-color: blue;
+}
